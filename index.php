@@ -164,7 +164,7 @@ $arr3 = array(4,5,6,7,8);
 // $arr3 = array(6,10,100);
 
 // scn as first and middle
-// $arr1 = array(8,11,55;
+// $arr1 = array(8,11,55);
 // $arr2 = array(8,11,55);
 // $arr3 = array(8,11,100);
 
