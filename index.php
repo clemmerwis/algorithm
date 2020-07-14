@@ -164,9 +164,9 @@ $arr3 = array(4,5,6,7,8);
 // $arr3 = array(6,10,100);
 
 // scn as first and middle
-// $arr1 = array(6,8,9,11,55;
-// $arr2 = array(5,8,11,55);
-// $arr3 = array(11,100);
+// $arr1 = array(8,11,55;
+// $arr2 = array(8,11,55);
+// $arr3 = array(8,11,100);
 
 // scn despite greater matches
 // $arr1 = array(5,9,11,55,100);
